@@ -1,0 +1,12 @@
+{
+	"name": "textise-link-chrome",
+	"version": "1.0",
+	"background": {
+		"persistent": false,
+		"scripts": ["/main.js"]
+	},
+	"icons" : {},
+	"permissions": ["contextMenus"],
+	"description": "Add an context menu item to Textise any link",
+	"manifest_version": 2
+}
