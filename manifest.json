@@ -5,7 +5,8 @@
 		"persistent": false,
 		"scripts": ["/main.js"]
 	},
-	"icons" : {},
+	"icons" : {
+		"16" : "logo16x16.png" },
 	"permissions": ["contextMenus"],
 	"description": "Add an context menu item to Textise any link",
 	"manifest_version": 2
