@@ -1,6 +1,6 @@
 # textise-link-chrome
 A little Chrome extension to create a textised link directly.
-It use [Textise](https://www.textise.net/) service
+It uses [Textise](https://www.textise.net/) service
 
 ## Installation Instructions
 **Only for Google Chrome**:
